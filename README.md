@@ -7,9 +7,9 @@
 * Tecnología de la información, gestión industrial y world wide web
 
 **Una compañera que  fue de mucha ayuda para mi que me ayudo a dirigir a nuestro grupo fue:**
-@raqueldelaross 
+*@raqueldelaross *
 1.Fue una gran compañera y me gusto su forma de trabajar
   -tambien me gusto su forma de dirigir
    -Y la forma en la que hizo que  todos pudieramos trabajr de una buena manera .
    
-**Y asi que podemos decir que hemos terminado este gran curso   😎
+**Y asi que podemos decir que hemos terminado este gran curso   😎**
