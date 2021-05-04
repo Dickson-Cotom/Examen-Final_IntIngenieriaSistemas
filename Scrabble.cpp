@@ -14,4 +14,5 @@ int main()
     cout << "Challenge #1" << endl;
     int arreglo[] = {0, 1, 1, 1, 2, 2};  // Empiece con este arreglo ya existente, el docente modificará este arreglo para pruebas
     return 0;
+    
 }
